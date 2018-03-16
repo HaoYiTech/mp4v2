@@ -1,7 +1,6 @@
-All docs are located in doc/ subdirectory. Useful starting points:
 
-Release Notes           -- doc/ReleaseNotes.txt
-Building the Source     -- doc/BuildSource.txt
-Building the Repository -- doc/BuildRepository.txt
+MP4文件解析工具
 
-See the COPYING file for license rights and limitations
+MP4文件存储工具
+
+VS2010编译成静态lib
